@@ -27,6 +27,7 @@ const Card = ({name, flag}) => {
                 height:"100px",
             }}
             />
+            <h2>{name}</h2>
         </div>
     );
 };
